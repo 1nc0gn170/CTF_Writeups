@@ -9,8 +9,8 @@ File : <a href="https://drive.google.com/open?id=1tozO1sioDwXwSVlvnpgABNj1u2kV5-
 
 So just a command feteches the flag containing file. :)
 
-# Command
+``Command``
 
 `grep -nir {`
 
-This will return the class file, just run it to get the flag :)
+This will return the class file, just run the file to you'll get the flag :)
