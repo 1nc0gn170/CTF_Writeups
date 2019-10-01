@@ -52,3 +52,5 @@ if __name__ == '__main__':
 ```
 
 After 100 iterations you'll get the flag :) 
+
+Flag : 'Invader{y0u_4r3_Au70m5t3d_mn3m0n1c!!!}'
