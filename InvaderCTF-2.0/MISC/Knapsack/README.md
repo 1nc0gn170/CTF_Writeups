@@ -3,7 +3,7 @@
 
 <b>Description : Walk Through the tunnel of Knapsack<br/>Connection : nc 10.11.4.98 13377</b>
 
-Given a netcat connection and that basically runs on super increasing knapsack.
+Given a netcat connection and that basically runs a super increasing knapsack script.
 
 For More Information about Super increasing Knapsack refer this link<br>
 <a href="https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem">SuperIncreasing Knapsack</a>
