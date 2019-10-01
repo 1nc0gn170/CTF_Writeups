@@ -51,6 +51,13 @@ if __name__ == '__main__':
 	main()
 ```
 
+
 After 100 iterations you'll get the flag :) 
 
+```
+[*] Switching to interactive mode
+Invader{y0u_4r3_Au70m5t3d_mn3m0n1c!!!}
+[*] Got EOF while reading in interactive
+$  
+```
 Flag : 'Invader{y0u_4r3_Au70m5t3d_mn3m0n1c!!!}'
