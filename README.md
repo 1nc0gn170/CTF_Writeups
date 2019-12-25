@@ -1,2 +1,2 @@
 # CTF_Writeups
-CTF Writeups
+Forensics and Misc Challenge Writeups
