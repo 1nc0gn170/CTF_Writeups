@@ -16,7 +16,9 @@ So it gives the raw data of an Image.
   <li>Scan the QR inside the Image and Fetch the Book Number</li>
   <li>Using Book number,Fetch the book name and Send it back to the server</li>
 </ul>
-  After 30 Iterations flag will be displayed.:)
+
+So,We need to Automate this process for  30 Iterations, finally after all iterations flag will be displayed.:)
+You Can See my Automation Script(`Exploit.py`).
   
 ```(9780133594140, 26)
 Computer Networking: A Top-Down Approach (7th Edition)
