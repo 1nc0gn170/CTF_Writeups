@@ -18,7 +18,7 @@ So it gives the raw data of an Image.
 </ul>
   After 30 Iterations flag will be displayed.:)
   
- ```(9780133594140, 26)
+ `(9780133594140, 26)
 Computer Networking: A Top-Down Approach (7th Edition)
 (9780201633610, 27)
 Design Patterns: Elements of Reusable Object-Oriented Software
@@ -28,6 +28,6 @@ The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, an
 Serious Cryptography: A Practical Introduction to Modern Encryption
 [*] Switching to interactive mode
 KAF{k4r1_m4rx_15_7h3_b357}[*] Got EOF while reading in interactive
-$  ```
+$  `
 
 <b>`Flag: KAF{k4r1_m4rx_15_7h3_b357}`</b>
