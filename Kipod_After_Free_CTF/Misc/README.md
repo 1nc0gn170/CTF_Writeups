@@ -18,7 +18,7 @@ So it gives the raw data of an Image.
 </ul>
 
 So,We need to Automate this process for  30 Iterations, finally after all iterations flag will be displayed.:)
-You Can See my Automation Script(`Exploit.py`).
+<br/>You Can See my Automation Script(`Exploit.py`).
   
 ```(9780133594140, 26)
 Computer Networking: A Top-Down Approach (7th Edition)
