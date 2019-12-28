@@ -19,6 +19,7 @@ Then I found these Pixels. Intrestingly every Pixel Values Seems to be the ASCII
 >>>
 
 ```
+<br/>Then Finally written a small exploit to print the FLag.<br/>
 <h4>Exploit.py</h4>
 
 ```
