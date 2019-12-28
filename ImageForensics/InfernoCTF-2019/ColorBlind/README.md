@@ -11,8 +11,7 @@ colorblind.png: PNG image data, 64 x 1, 8-bit/color RGB, non-interlaced
 
 <h4>Exploit.py</h4>
 
-````
-#!/usr/bin/python3
+````#!/usr/bin/python3
 
 from PIL import Image
 
@@ -22,7 +21,4 @@ data = list(im.getdata())
 for i in data:
 	print(chr(i[0]),end="")
 	print(chr(i[1]),end="")
-	print(chr(i[2]),end="")
-
-
-````
+	print(chr(i[2]),end="")````
