@@ -5,11 +5,11 @@
 Given an Image,after a quick research I found that it is an image with 64x1 size.Which is soo Weird.
 
 
-``
+```
 ~/Downloads$ file colorblind.png 
 
 colorblind.png: PNG image data, 64 x 1, 8-bit/color RGB, non-interlaced
-``
+```
 <br/>So then I Used Python PIL library to check the pixels of Images
 Then I found these Pixels. Intrestingly every Pixel Values Seems to be the ASCII value of alphabets!!!
 
