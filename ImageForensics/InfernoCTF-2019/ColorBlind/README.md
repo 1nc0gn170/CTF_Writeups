@@ -5,9 +5,10 @@
 Given an Image,after a quick research I found that it is an image with 64x1 size.Which is soo Weird.
 
 
+``
 ~/Downloads$ file colorblind.png 
 colorblind.png: PNG image data, 64 x 1, 8-bit/color RGB, non-interlaced
-
+``
 
 <h4>Exploit.py</h4>
 
