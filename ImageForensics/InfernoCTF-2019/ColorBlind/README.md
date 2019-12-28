@@ -11,14 +11,17 @@ colorblind.png: PNG image data, 64 x 1, 8-bit/color RGB, non-interlaced
 
 <h4>Exploit.py</h4>
 
-````#!/usr/bin/python3
-
+```
 from PIL import Image
 
 im = Image.open("/home/mindfreaker/Downloads/colorblind.png")
 data = list(im.getdata())
 
+flag = ""
 for i in data:
-	print(chr(i[0]),end="")
-	print(chr(i[1]),end="")
-	print(chr(i[2]),end="")````
+	flag+=chr(i[0])
+	flag+=chr(i[1])
+	flag+=chr(i[2])
+
+print (flag)
+```
