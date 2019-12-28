@@ -20,8 +20,10 @@ Then I used FactorDb to find P and Q values.
 P = 150758089
 Q = 170426657
 `
-Voila :).<br/>
+<br/>Voila :).<br/>
 Now I can Crack decode the cipher text easily
+
+<h4>Exploit.py</h4>
 
 ```
 from Crypto.Util.number import *
@@ -47,3 +49,5 @@ for i in enc_flag:
 print (plaintext)
 
 ```
+
+FLAG : `infernoCTF{RSA_k3yS_t00_SmAll}`
