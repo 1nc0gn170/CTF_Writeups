@@ -21,7 +21,7 @@ P = 150758089
 Q = 170426657
 `
 <br/>Voila :).<br/>
-Now I can Crack decode the cipher text easily
+Now I can decode the cipher text easily
 
 <h4>Exploit.py</h4>
 
