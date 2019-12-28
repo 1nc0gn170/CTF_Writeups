@@ -2,7 +2,7 @@
 
 <h4>Exploit.py</h4>
 
-<p>
+```<p>
 #!/usr/bin/python3
 
 from PIL import Image
@@ -16,7 +16,7 @@ for i in data:
 	print(chr(i[2]),end="")
 
 
-</p>
+</p>```
 
 OUTPUT
 
